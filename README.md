@@ -6,8 +6,7 @@ model by default.
 
 ## Why this project
 
-Built as a technical showcase for macro/commodities roles. "Scorecard"
-models (combine a handful of fundamental indicators into one composite
+Scorecard models (combine a handful of fundamental indicators into one composite
 signal) are common in commodities research. The point of this project is
 to actually test whether a simple, transparent version of one holds up
 out-of-sample, and to report what happens when it partially doesn't.
